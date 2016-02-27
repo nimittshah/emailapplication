@@ -1,0 +1,101 @@
+[  
+   {  
+		"id":1,
+		"sender":"abc",
+		"senderMail":"abc@example.com",
+		"to": "nimittshah87@gmail.com",
+		"subject":"Hi, Welcome to Google Mail",
+		"date":1453318977,
+		"read":true,
+		"folderId":1,
+		"body":"<p>Mail 1</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>All the best,</p> <p>ABC DEF, CEO, <br>ABC Inc.</p>"
+   },
+   {  
+		"id":2,
+		"sender":"xyz",
+		"senderMail":"xyz@example.com",
+		"to": "nimittshah87@gmail.com",
+		"subject":"Mail 2!",
+		"date":1453750977,
+		"read":true,
+		"folderId":1,
+		"body":"<p>Mail 2</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>All the best,</p> <p>XYZ, CEO, <br>XYZ Inc.</p>"
+   },
+   {  
+		"id":3,
+		"sender":"pqr",
+		"senderMail":"pqr@example.com",
+		"to": "nimittshah87@gmail.com",
+		"subject":"Mail 3!",
+		"date":1454528577,
+		"read":false,
+		"folderId":1,
+		"body":"<p>Mail 3</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>All the best,</p> <p>PQR, CEO, <br>PQR Inc.</p>"
+   },
+   {  
+		"id":4,
+		"sender":"MNO",
+		"senderMail":"mno@example.com",
+		"to": "nimittshah87@gmail.com",
+		"subject":"Mail 4!",
+		"date":1456256577,
+		"read":false,
+		"folderId":1,
+		"body":"<p>Mail 4</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>All the best,</p> <p>MNO, CEO, <br>MNO Inc.</p>"
+   },
+   {  
+		"id":5,
+		"sender":"ABC",
+		"senderMail":"abc@example.com",
+		"to": "nimittshah87@gmail.com",
+		"subject":"1. Hi, Welcome to ABC!",
+		"read":true,
+		"date":1453146177,
+		"folderId":2,
+		"body":"<p>Sent Mail 1</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>All the best,</p> <p>ABC DEF, CEO, <br>ABC Inc.</p>"
+   },
+   {
+		"id":6,
+		"sender":"PQR",
+		"senderMail":"pqr@example.com",
+		"to": "nimittshah87@gmail.com",
+		"subject":"2. Lorem Ipsum is simply ",
+		"date":1453664577,
+		"read":true,
+		"folderId":2,
+		"body":"<p>Sent Mail 2</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>All the best,</p> <p>ABC DEF, CEO, <br>ABC Inc.</p>"
+   },
+   {
+		"id":7,
+		"sender":"XYZ",
+		"senderMail":"xyz@example.com",
+		"to": "nimittshah87@gmail.com",
+		"subject":"3. Lorem Ipsum is simply dummy text of",
+		"date":1454442177,
+		"read":true,
+		"folderId":2,
+		"body":"<p>Sent Mail 3</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>All the best,</p> <p>ABC DEF, CEO, <br>ABC Inc.</p>"
+   },
+   {  
+		"id":8,
+		"sender":"nshah",
+		"senderMail":"nimittshah87@gmail.com",
+		"to": "nimittshah87@gmail.com",
+		"subject":"4. Lorem Ipsum is simply dummy text of",
+		"date":1456515777,
+		"read":true,
+		"folderId":2,
+		"body":"<p>Sent Mail 4</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>All the best,</p> <p>ABC DEF, CEO, <br>ABC Inc.</p>"
+   },
+   {  
+		"id":9,
+		"sender":"mno",
+		"senderMail":"mno@example.com",
+		"to": "nimittshah87@gmail.com",
+		"subject":"5. Testmail output",
+		"date":1453405377,
+		"read":true,
+		"folderId":2,
+		"body":"<p>Sent Mail 5</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>All the best,</p> <p>ABC DEF, CEO, <br>ABC Inc.</p>"
+   }
+]

@@ -1,0 +1,45 @@
+<div class="mail" ng-controller="mailController">
+	<table class="table table-striped table-hover emailtable">
+		<thead>
+			<tr>
+				<td>Date</td>
+				<td>Subject</td>
+				<td>{{SenderReceiver}}</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="mail in mails | filter: { 'folderId': folderid}:true | orderBy:date:true" ng-class="(!mail.read)?'unread':''" ng-click="loadMail($event, mail.id)" >
+				<td width="20%"><div class="date">{{mail.date*1000|date:'MMM dd, yyyy'}}</div></td>
+				<td><div class="subject">{{convertToPlain(mail.subject) | limitTo: 70}}{{mail.subject.length > 70 ? '...' : ''}}</div></td>
+				<td width="25%"><div class="sender">{{convertToPlain(mail.sender)+" <"+ mail.senderMail + ">"}}</div></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div id="loadMail">
+	<div class="left">
+		<div class="field">
+			<label class="control-label">Subject: </label>
+			<div id="subjectmail"></div>
+		</div>
+		<div class="field">
+			<label class="control-label">Date: </label>
+			<div id="datemail"></div>
+		</div>
+	</div>
+	<div class="right">
+		<div class="field">
+			<label class="control-label">To: </label>
+			<div id="tomail"></div>
+		</div>
+		<div class="field">
+			<label class="control-label">From: </label>
+			<div id="frommail"></div>
+		</div>
+	</div>
+	<div class="field">
+		<div id="bodymail">
+			Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever s
+		</div>
+	</div>
+</div>

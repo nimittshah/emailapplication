@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" href="css/bootstrap-3.3.6/bootstrap.css"/>
+	<link rel="stylesheet" href="css/style.css"/>
+	<script src="lib/angular.js"></script>
+	<script src="lib/angular-route.js"></script>
+	<script src="lib/angular-sanitize.js"></script>
+	<script data-require="angular-ui-bootstrap@0.3.0" data-semver="0.3.0" src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.3.0.min.js"></script>
+	<script src="lib/jquery.js"></script>
+	<script src="scripts/bootstrap-3.3.6/bootstrap.js"></script>
+	<script src="app/modules/app.js"></script>
+	<script src="app/services/mailService.js"></script>
+	<script src="app/controllers/mailController.js"></script>
+	<script src="app/controllers/inboxController.js"></script>
+	<script src="app/controllers/sentController.js"></script>
+	<script src="app/controllers/errorController.js"></script>
+</head>
+<body ng-app="mailApp">
+	<div class="maincontainer">
+		<header>
+			<ul>
+				<li class="logo"><img src="images/logo.png" /></li>
+				<li class="userimg"><a href="javascript:void()" >nimittshah87@gmail.com</a></li>
+				<li class="logout"><a href="javascript:void()" >Logout</a></li>
+			</ul>
+		</header>
+		<div class="leftContainer">
+			<ul class="folders">
+				<li><a href="#/inbox" class="selected">Inbox</a></li>
+				<li><a href="#/sent">Sent</a></li>
+			</ul>
+		</div>
+		<div class="rightContainer">
+			<div ng-view></div>
+		</div>
+	</div>
+</body>
+</html>
