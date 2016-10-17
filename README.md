@@ -1,4 +1,4 @@
 # emailapplication
 Email Application
 
-Application is assuming emails are fetched in json format. Chrome has default feature for security purpose that to load json, application will need to be loaded on server. If you want to see it without Server(localhost), you can see in Mozilla Firefox.
+Application is assuming data (emails) in JSON format. As Chrome has default security feature to load JSON file, application will need a server to load JSON file. If you want to see application without Server(localhost), you can see it in Mozilla Firefox.
